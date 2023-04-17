@@ -1,0 +1,22 @@
+body {
+    background-color: #a6acaf;
+}
+
+.Navbar-Container {
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslategrey;
+}
+
+.Navbar-Item {
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color : white;
+}
+.Navbar-Item:hover {
+    background-color: #ff0000;
+    color: palegoldenrod;
+}

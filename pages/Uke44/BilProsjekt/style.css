@@ -1,0 +1,38 @@
+body {
+    margin: 0px;
+    background-color: darkslategrey;
+}
+
+.content {
+    margin: 1vw;
+    display: flex;
+    flex-direction: row;
+}
+
+#logodiv {
+    width: 100%;
+    display: flex;
+    height: 100px;
+    background-color: aliceblue;
+    justify-content: space-evenly;
+    
+}
+
+#logodiv a {
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+
+}
+
+#img {
+    height: inherit;
+}
+
+.carimage {
+    padding-left: 1vw;
+}

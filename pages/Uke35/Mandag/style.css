@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: rgb(36, 33, 0);
+    background: linear-gradient(90deg, rgba(36, 33, 0, 1) 0%, rgba(30, 135, 17, 1) 53%, rgba(255, 0, 0, 1) 100%);
+}
+
+.marq {
+    border: solid magenta 5px;
+    border-radius: 50%;
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    font-family: 'Comic Sans MS';
+    width: 100%;
+    font-size: 50px;
+}
+
+.marq p {
+    color: orange;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,29 @@
+body {
+    background-image: url(./media/bakgrunn_4.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#Container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#Container img {
+    width: 25%;
+}
+
+#Container h3 {
+    width: 25%;
+}

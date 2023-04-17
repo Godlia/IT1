@@ -1,0 +1,8 @@
+{
+    "host": "helgerud.informatikk6.net",
+    "port": 21,
+    "user": "helgerud@helgerud.informatikk6.net",
+    "ignore":[".git",".vscode"],
+    "remotePath": "/root",
+    "uploadOnSave": true
+}

@@ -1,0 +1,32 @@
+.link-nostyle {
+    text-decoration: none;
+    color: inherit;
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+.button {
+    background-color: black;
+    color: red;
+    border: 2px solid red;
+    border-radius: 20%;
+    padding: 0%;
+}
+
+.button:hover {
+    color: orangered;
+    border: 2px solid orangered;
+}
+
+body {
+    background-color: black;
+}
+
+/* make all h elements the same size and white*/
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
