@@ -106,6 +106,14 @@
                     <h3>30. Vurderingsuke (15)</h3>
                     <a href="./pages/Uke15/database.php">SQL & querying</a>
                 </div>
+                <div class="project">
+                    <h3>31. Vurderingsuke (16)</h3>
+                    <a href="./pages/Uke16/databaseprosjekt.php">Tilkoblings-script</a>
+                </div>
+                <div class="project">
+                    <h3>32. Vurderingsuke (17)</h3>
+                    <a href="./pages/Uke17/prove.php">Prøve i PHP & SQL & MariaDB</a>
+                </div>
             </div>
             <form action="sendmail.php" method="post">
                 <input type="hidden" name="receiver" value="eirik.h.kristoffersen@gmail.com">

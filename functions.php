@@ -46,7 +46,7 @@ function AppendToCSVFile($filename, $array) {
 //read csv file and return array
 function ReadCSVFile($filename, $delimiter = ',')
 {
-    echo '<script>console.log("Reading file: ' . $filename . '")</script>';
+    //echo '<script>console.log("Reading file: ' . $filename . '")</script>';
     //check if $filename is a file
     if (!is_file($filename)) {
         $file_to_read = fopen($filename, 'r');
